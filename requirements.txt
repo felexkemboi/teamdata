@@ -4,4 +4,4 @@ django-widget-tweaks==1.4.2
 pytz==2018.5
 gunicorn==19.7.1
 psycopg2==2.7.1
-whitenoise==3.3.
+whitenoise==3.3.0
