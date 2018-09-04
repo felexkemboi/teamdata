@@ -13,4 +13,3 @@ def email(request):
    
 
     return render(request,'email.html' , {'name':name,'phone':phone,'email':email,'message':message} )
-	
